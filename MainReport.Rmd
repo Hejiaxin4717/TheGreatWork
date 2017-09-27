@@ -1,6 +1,6 @@
 ---
 title: "Main Report"
-author: "Tyler Deroin"
+author: "Tyler Deroin， He Jiaxin"
 date: "September 26, 2017"
 output: pdf_document
 ---
